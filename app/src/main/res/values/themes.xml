@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AppAlcoolOuGasolina2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/azulClaro</item>
+    </style>
+
+    <style name="Theme.AppAlcoolOuGasolina2" parent="Base.Theme.AppAlcoolOuGasolina2" />
+</resources>
